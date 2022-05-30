@@ -1,6 +1,6 @@
 # cit281-lab2
 ```
-Purpose: CLI commands, learning git commands
+Purpose: Using CLI commands, learning git commands
 ```
 Learning how to use CLI commands for directory file and manupulation as well as git commands
 
